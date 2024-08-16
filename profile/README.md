@@ -2,6 +2,12 @@
 
 Pyramid Academy is dedicated to advancing the frontiers of research education across various academic stages. We address the challenges typically faced by students and researchers by facilitating a collaborative environment where knowledge and experiences are shared to enhance the educational journey.
 
+<div align="center">
+  <img 
+    style="width: 700px;"
+    src="https://github.com/Pyramid-Research/.github/blob/main/Pyramid.png">
+</div>
+
 ### Our Vision
 We aim to provide a platform that simplifies complex research paths, making them more approachable and less daunting. By fostering a community of like-minded individuals, we help members ascend to new heights of academic and practical knowledge.
 
